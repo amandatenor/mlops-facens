@@ -1,0 +1,11 @@
+split:
+  test_days: 28          # últimos 28 dias viram teste
+
+train:
+  learning_rate: 0.1
+  max_iter: 300
+  max_leaf_nodes: 31
+  random_state: 42
+
+mlflow:
+  experiment: bike-demand-pipeline

@@ -1,0 +1,8 @@
+mlflow==3.17.0
+dvc==3.67.1
+scikit-learn==1.9.1
+pandas==3.0.6
+matplotlib==3.11.2
+PyYAML==6.0.3
+joblib==1.6.0
+ipykernel==7.4.0
